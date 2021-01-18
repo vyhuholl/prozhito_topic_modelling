@@ -19,6 +19,6 @@
 <br>
 [Таймлайн "Живые души XX века"](https://www.sutori.com/story/zhivyie-dushi-xx-vieka--LVLEntAwko13P3cmo1Chy9D8)<br>
 Для просмотра нажмите на **Present**.<br>
-Он же, но в `pdf`: https://vyhuholl.github.io/prozhito_topic_modelling/prozhito_topic_modelling.pdf <br>
+Он же, но в pdf: vyhuholl.github.io/prozhito_topic_modelling/prozhito_topic_modelling.pdf <br>
 <br>
 Более сложные и интересные визуализации: [visialization.ipynb](visialization.ipynb)
